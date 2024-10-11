@@ -293,3 +293,30 @@ int main() {
    
     return 0;
 }
+
+
+
+//12-09-2004
+//funtion possible on a data type
+//class data type
+//               --> values
+//               --> functions / operations
+//char is  subclass of int        
+
+//example
+//class dog
+//           --> char[20] dog_name
+//           --> char[20] dog_appearance
+//           --> walk()
+//           --> run()
+//           --> bite()
+
+
+// premitive (int , char , etc...) data types are used to create hybrid data type 
+
+
+//swap two numbers
+
+
+
+
